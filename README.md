@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/takove"><img src="https://img.shields.io/github/followers/takove?style=social" alt="Followers"></a>
-  <a href="https://www.linkedin.com/in/luisrosal"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/luis-rosal-616057152?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.upwork.com/freelancers/~01e23dbbdc5a8b9f74"><img src="https://img.shields.io/badge/Upwork-03A57F?logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="https://luisrosal.dev"><img src="https://img.shields.io/badge/Portfolio-000?logo=firefox-browser&logoColor=white" alt="Website"></a>
 </p>
