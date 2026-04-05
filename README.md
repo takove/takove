@@ -16,7 +16,7 @@
 ```yaml
 origin:   🇻🇪  Carúpano, Venezuela
 now:      🌧️  Loving Bogotá's rainy walks
-role:     Solo Full-Stack Engineer @ DeepLawn && SmartSpray
+role:     Solo Full-Stack Engineer @ SmartSpray
 building: End-to-end chemical spray platform — planning, design, dev, infra & deploys
 cats:     Botas & Querubín (=ꈊ=)
 ```
